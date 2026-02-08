@@ -11,5 +11,7 @@ public class Main {
 
         System.out.println("Second test-2");
 
+        System.out.println("TEST-999");
+
     }
 }
